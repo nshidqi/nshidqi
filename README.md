@@ -1,4 +1,10 @@
-### Hi there 👋, I'm [Naufal] (https://github.com/nshidqi)
+<p>
+  <h1 align="center"><b>Hi there, I'm Naufal 👋</b></h1>
+</p>
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/nshidqi" />
+</p>
 
 <!--
 **nshidqi/nshidqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +22,5 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: He/Him
+- 🌱 I’m interested in Mobile/Edge Computing and Applied Artificial Intelligence.
+- 📫 You can reach me at this [mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal).
