@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Naufal 👋</b></h1>
+  <h1 align="center"><b>Hi there, I'm <a href="https://www.linkedin.com/in/naufalshidqi/">Naufal Shidqi</a> 👋</b></h1>
 </p>
 
 <p align="center">
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m interested in Mobile/Edge Computing and Applied Artificial Intelligence.
-- 📫 You can reach me at this [mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal).
+- 🌱 I’m interested in Mobile/Edge Computing, Ubiquitous Computing and Applied Artificial Intelligence.
+- 📫 You can reach me at this [e-mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal).
