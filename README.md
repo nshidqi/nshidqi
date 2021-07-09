@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: He/Him
+- 🎲 I play Rubik's Cube
 - 🌱 I’m interested in Mobile/Edge Computing, Ubiquitous Computing and Applied Artificial Intelligence.
 - 📫 You can reach me at this [e-mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal).
