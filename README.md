@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him
 - 🎲 I play Rubik's Cube
-- 🌱 I’m currently interested in Applied Artificial Intelligence & Machine Learning, Data Science, and Mobile/Edge-device Computing.
+- 🌱 I’m currently interested in Applied Artificial Intelligence & Machine Learning, Data Science, Mobile/Edge-device Computing, and Ubiquitous Computing
 - 🔭 I have experience in diverse areas related to IC design, embedded systems, IoT and Android OS platforms
-- 📫 You can reach me at this [e-mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal).
+- 📫 You can reach me at this [e-mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal)
