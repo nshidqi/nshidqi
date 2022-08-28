@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: He/Him
-- 🎲 I play Rubik's Cube
-- 🌱 I’m currently interested in Applied Artificial Intelligence & Machine Learning, Data Science, Mobile/Edge-device Computing, and Ubiquitous Computing
+- 🎲 I solve Rubik's Cube
+- 🌱 I’m currently interested in Applied Artificial Intelligence (AI) & Machine Learning (ML), Data Science (DS), Edge-device/Mobile Computing, and Computer Vision
 - 🔭 I have experience in diverse areas related to IC design, embedded systems, IoT and Android OS platforms
 - 📫 You can reach me at this [e-mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal)
