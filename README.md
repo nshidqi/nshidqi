@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎲 I solve Rubik's Cube
-- 🌱 I’m currently interested in Applied Artificial Intelligence (AI) & Machine Learning (ML), Data Science (DS), Edge-device/Mobile Computing, and Computer Vision
+- 🌱 I’m currently interested in Applied Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL), Data Science (DS), Edge-device/Mobile Computing, and Computer Vision
 - 🔭 I have experience in diverse areas related to IC design, embedded systems, IoT and Android OS platforms
 - 📫 You can reach me at this [e-mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal)
