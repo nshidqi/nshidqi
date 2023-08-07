@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/nshidqi" />
+    <img src="https://komarev.com/ghpvc/?username=nshidqi&style=flat-square&color=blue" alt=""/>
 </p>
 
 <!--
@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently interested in Applied Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL), Data Science (DS), Edge-device/Mobile Computing, and Computer Vision
 - 🔭 I have experience in diverse areas related to IC design, embedded systems, IoT and Android OS platforms
 - 📫 You can reach me at this [e-mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal)
+
+-----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshidqi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
