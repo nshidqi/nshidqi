@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎲 I solve Rubik's Cube
-- 🌱 I’m currently interested in Applied Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL), Data Science (DS), Edge-device/Mobile Computing, and Computer Vision
-- 🔭 I have experience in diverse areas related to IC design, embedded systems, IoT and Android OS platforms
+- 🎲 I solve <a href="https://www.worldcubeassociation.org/persons/2010SHID01">Rubik's Cube</a>.
+- 🌱 I’m currently interested in Applied Artificial Intelligence (AI), Machine Learning (ML) & Deep Learning (DL), Data Science (DS), Edge-device/Mobile Computing, and Computer Vision.
+- 🔭 I have experience in diverse areas related to IC design, embedded systems, IoT, and Android OS platforms.
 - 📫 You can reach me at this [e-mail](mailto:hi.nshidqi@gmail.com?subject=Hi,%20Naufal)
 
 -----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshidqi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshidqi&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
